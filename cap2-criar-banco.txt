@@ -1,0 +1,30 @@
+abrir como administrador no win e no linux sudo su
+
+$ dbca
+
+banco: curso
+sid: curso
+
+criar listener, abrir outro terminal
+
+$ netca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
